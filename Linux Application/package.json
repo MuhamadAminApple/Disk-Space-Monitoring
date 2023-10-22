@@ -1,0 +1,17 @@
+{
+    "name": "task",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "serve": "node main.js"
+    },
+    "author": "Muhamad Amin Mustapha",
+    "license": "ISC",
+    "dependencies": {
+      "diskusage": "^1.2.0",
+      "dotenv": "^16.3.1",
+      "kafkajs": "^2.2.4"
+    }
+  }
+  
